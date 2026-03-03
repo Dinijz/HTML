@@ -1,0 +1,45 @@
+/* p {
+            color:#e50e0e;
+            font-style: italic;
+            font-size: 20px;
+            font-family: Verdana;
+        } */
+
+        #item1 {
+            color: #f3450f;
+        }
+
+        #item2 {
+            color: #fcac03;
+        }
+
+        #item3 {
+            color: #e50e0e;
+        }
+
+        .fonteColorida {
+            color: aquamarine;
+            font-style: italic;
+            font-size: 20px;
+        }
+
+        .fonteGrande {
+            font-size: 50px;
+        }
+
+        .grid-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .grid-item {
+            background-color: rgb(170, 231, 215);
+            padding: 70px;
+        }
+
+        .link {
+            color: #e50e0e;
+            size: 25px;
+            text-align: center;
+        }
